@@ -1,0 +1,8 @@
+body{
+  background-color: blue;
+}
+
+.title{
+  text-decoration: line-through;
+  color: purple;
+}

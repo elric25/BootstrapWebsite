@@ -1,0 +1,8 @@
+body{
+  background-color: darkslategrey;
+}
+
+.title{
+  text-decoration: underline;
+  color: white;
+}

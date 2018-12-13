@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="78" column="79" lean-forward="true" selection-start-line="78" selection-start-column="79" selection-end-line="78" selection-end-column="79" />
+            <state relative-caret-position="442">
+              <caret line="74" column="14" lean-forward="true" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -111,11 +111,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.contact.html">
+  <component name="RunManager" selected="JavaScript Debug.portfolio.html (1)">
     <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BootstrapWebsite-master/contact.html">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BootstrapWebsite-master/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="portfolio.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BootstrapWebsite/portfolio.html">
       <method v="2" />
     </configuration>
     <configuration name="portfolio.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BootstrapWebsite-master/portfolio.html">
@@ -123,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.portfolio.html (1)" />
         <item itemvalue="JavaScript Debug.contact.html" />
         <item itemvalue="JavaScript Debug.portfolio.html" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -151,12 +155,12 @@
       <workItem from="1544553743623" duration="884000" />
       <workItem from="1544652714905" duration="408000" />
       <workItem from="1544724887690" duration="370000" />
-      <workItem from="1544725590550" duration="611000" />
+      <workItem from="1544725590550" duration="1810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9442000" />
+    <option name="totallyTimeSpent" value="10641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -249,10 +253,16 @@
     <entry file="file://$PROJECT_DIR$/img/jsbook.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/viewport.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/colours.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="78" column="79" lean-forward="true" selection-start-line="78" selection-start-column="79" selection-end-line="78" selection-end-column="79" />
+        <state relative-caret-position="442">
+          <caret line="74" column="14" lean-forward="true" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
         </state>
       </provider>
     </entry>

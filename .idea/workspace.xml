@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9197d1b1-910d-45cd-8d01-ab2e2651ead8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/colours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jquery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jsbook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/viewport.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/port2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/port3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/port4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/port5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/port6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="416">
-              <caret line="80" column="33" lean-forward="true" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+              <caret line="83" column="14" lean-forward="true" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -152,12 +161,12 @@
       <workItem from="1544553743623" duration="884000" />
       <workItem from="1544652714905" duration="408000" />
       <workItem from="1544724887690" duration="370000" />
-      <workItem from="1544725590550" duration="128000" />
+      <workItem from="1544725590550" duration="268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8959000" />
+    <option name="totallyTimeSpent" value="9099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -247,13 +256,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/port2.png">
+    <entry file="file://$PROJECT_DIR$/img/jsbook.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
-          <caret line="80" column="33" lean-forward="true" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+          <caret line="83" column="14" lean-forward="true" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
         </state>
       </provider>
     </entry>
